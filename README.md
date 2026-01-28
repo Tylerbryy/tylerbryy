@@ -19,6 +19,9 @@
 - 🩺 **[MedFlow](https://soapbw.vercel.app/)** - Generate professional SOAP notes in seconds with AI
 - 📊 **[ClaimGraph](https://github.com/Tylerbryy/claimgraph)** - Turn any research question into an interactive knowledge graph with stance classification
 - 🏥 **[Verity](https://www.backworkai.com/)** - Medicare coverage answers in seconds, not hours of PDF hunting
+- 🗃️ **[extractr](https://github.com/Tylerbryy/extractr)** - Template-based data extraction from web pages using YAML configs
+- 🔎 **[domql](https://github.com/Tylerbryy/domql)** - SQL syntax for DOM querying, query web pages like databases
+- 🧬 **[schemasniff](https://github.com/Tylerbryy/schemasniff)** - Auto-infer scraping schemas from pages with repeated content
 - 📐 **[Lyapunov Attention](https://github.com/Tylerbryy/lyapunov-attention)** - First Lyapunov exponent framework for transformer attention dynamics
 - 📡 **[Stream Schema](https://github.com/Tylerbryy/stream-schema)** - Parse LLM JSON token by token with incremental validation
 - 💬 **[NTTP](https://github.com/tylerbryy/nttp)** - Query databases in plain English with 3-layer caching
